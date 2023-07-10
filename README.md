@@ -2,11 +2,11 @@
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
 <h1>Olá! Meu nome é Victor Baydir!</h1>
+<img align="right" width="200" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+- Desde a minha infância me interesso por Ciências da Computação e atualmente me aprofundo no assunto! Estou estudando Análise e Desenvolvimento de Sistemas na <a href="https://estacio.br">Faculdade Estácio</a>. Também, trabalho como Desenvolvedor Web - Fullstack na <a href="https://www.instagram.com/otimizeti">Otimize-TI</a> desde 2022! Gosto de desafios, aprender mais a cada dia! Entre nos meus repositórios para ver meus projetos
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas no <a href="https://estacio.br">Faculdade Estácio</a>.
-- 💼 &nbsp; Trabalhando como Desenvolvimento Web - Fullstack na <a href="https://www.instagram.com/otimizeti">Otimize-TI</a>
-- 🌱 &nbsp; Aprendendo mais sobre a cada dia!.
+
+
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
  
