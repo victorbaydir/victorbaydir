@@ -1,9 +1,6 @@
-
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
-
 <h1>Olá! Meu nome é Victor Baydir!</h1>
 <img align="right" width="200" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-- Desde a minha infância me interesso por Ciências da Computação e atualmente me aprofundo no assunto! Estou estudando Análise e Desenvolvimento de Sistemas na <a href="https://estacio.br">Faculdade Estácio</a>. Também, trabalho como Desenvolvedor Web - Fullstack na <a href="https://www.instagram.com/otimizeti">Otimize-TI</a> desde 2022! Gosto de desafios, aprender mais a cada dia! Entre nos meus repositórios para ver meus projetos:
+Desde a minha infância me interesso por Ciências da Computação e atualmente me aprofundo no assunto! Estou estudando Análise e Desenvolvimento de Sistemas na <a href="https://estacio.br">Faculdade Estácio</a>. Também, trabalho como Desenvolvedor Web - Fullstack na <a href="https://www.instagram.com/otimizeti">Otimize-TI</a> desde 2022! Gosto de desafios, aprender mais a cada dia! Entre nos meus repositórios para ver meus projetos:
 
 <h4><a href="https://github.com/victorbaydir/Calculadora">📱 Calculadora</a></h4>
 <h4><a href="https://github.com/victorbaydir/Calculadora">💻 Tela de Login</a></h4>
@@ -30,10 +27,6 @@
   ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 <br/>
 
-<a href="https://github.com/victorbaydir">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorbaydir&theme=default&show_icons=true" />
-</a>
-<br/>
 
 <h3>Onde me encontrar: </h3> 
 
