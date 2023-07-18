@@ -1,34 +1,47 @@
-<h1>Olá! Meu nome é Victor Baydir!</h1>
-<img align="right" width="200" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<h1 style="display: inline-block">Olá! Meu nome é Victor Baydir!</h1>
+
+
+<div align="center">
+  <img   src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+<br></br>
+<h1>Sobre mim</h1>
 Tenho 23 anos, moro em Goiânia/GO e estou a quase 3 anos oficialmente criando bugs! Também, trabalho como Desenvolvedor Web - Fullstack na <a href="https://www.instagram.com/otimizeti">Otimize-TI</a> desde 2022! Estou estudando Análise e Desenvolvimento de Sistemas na <a href="https://estacio.br">Faculdade Estácio</a>.
 <br>Entre nos meus repositórios para ver meus projetos:
+<br></br>
 
 
 <h4><a href="https://github.com/victorbaydir/Calculadora">📱 Calculadora</a></h4>
 <h4><a href="https://github.com/victorbaydir/Calculadora">💻 Tela de Login</a></h4>
 
 <br>
-
-
-<h4>Ferramentas e Skills</h4>
-
-  <code><img height="30" widht="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-</code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-<code><img height="32" src="https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="CSS"/></code>
-<code><img height="32" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="CSS"/></code>
-<code><img height="32" src="https://img.shields.io/badge/Visual_Studio-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="CSS"/></code>
-
-
-
 <h3>Onde me encontrar: </h3> 
 
 [![Linkedin: Victor Baydir](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/victor-baydir-1a842a22a/)
 [![Gmail Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:victorbaydir@hotmail.com)](mailto:victorbaydir@hotmail.com)
 [![GitHub victorbaydir]( https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorbaydir/READme)
+
+<h3>Ferramentas e Skills</h3>
+
+
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,postgresql,mysql,linux,vscode,eclipse,postman,git,github,aws,bootstrap,html,css&perline=14" />
+  </a>
+</p>
+<!--discord,docker,dynamodb,express,figma,firebase,github,html,idea,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode --!>
+
+<br>
+<p align="left">
+  <!--- stats (start) -->
+<table align="left">
+<tr border="none">
+<td width="50%" align="left">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=victorbaydir&theme=dark&show_icons=true&count_private=true" />
+</td>
+
+
+
