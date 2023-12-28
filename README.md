@@ -28,7 +28,7 @@ Tenho 23 anos, moro em Goiânia/GO e estou a quase 3 anos oficialmente criando b
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring, js,react,nodejs,postgresql,mysql,linux,vscode,eclipse,postman,git,github,aws,bootstrap,html,css&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,postgresql,mysql,linux,vscode,eclipse,postman,git,github,aws,bootstrap,html,css&perline=14" />
   </a>
 </p>
 <!--discord,docker,dynamodb,express,figma,firebase,github,html,idea,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode --!>
