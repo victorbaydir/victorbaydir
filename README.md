@@ -1,6 +1,6 @@
 <h1 style="display: inline-block">Olá! Meu nome é Victor Baydir!</h1>
 
-Tenho 23 anos, moro em Goiânia/GO e estou a quase 3 anos oficialmente criando bugs!! Também, trabalho como Desenvolvedor Web - Fullstack na <a href="https://www.instagram.com/otimizeti">Otimize-TI</a> desde 2021! Estou estudando Análise e Desenvolvimento de Sistemas na <a href="https://estacio.br">Faculdade Estácio</a>.
+Tenho 24 anos, moro em Goiânia/GO e estou a quase 3 anos oficialmente criando bugs!! Estou estudando Análise e Desenvolvimento de Sistemas na <a href="https://estacio.br">Faculdade Estácio</a>.
 <br>Entre nos meus repositórios para ver meus projetos:
 <br></br>
 
