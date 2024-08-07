@@ -6,6 +6,8 @@ Tenho 23 anos, moro em Goiânia/GO e estou a quase 3 anos oficialmente criando b
 
 
 <h4><a href="https://github.com/victorbaydir/Calculadora">📱 Calculadora</a></h4>
+<h4><a href="https://github.com/victorbaydir/jogoDaVelha"># Jogo da Velha</a></h4>
+<h4><a href="https://github.com/victorbaydir/listaDeTarefas">📋 Lista de Tarefas</a></h4>
 
 <br>
 <h3>Onde me encontrar: </h3> 
