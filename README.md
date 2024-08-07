@@ -1,7 +1,6 @@
 <h1 style="display: inline-block">Olá! Meu nome é Victor Baydir!</h1>
 
-Tenho 24 anos, moro em Goiânia/GO e estou a quase 3 anos oficialmente criando bugs!! Estou estudando Análise e Desenvolvimento de Sistemas na <a href="https://estacio.br">Faculdade Estácio</a>.
-<br>Entre nos meus repositórios para ver meus projetos:
+Tenho 24 anos, moro em Goiânia/GO e estou a quase 3 anos oficialmente criando bugs!! Estou estudando Análise e Desenvolvimento de Sistemas na <a href="https://estacio.br">Faculdade Estácio</a>.<br>Entre nos meus repositórios para ver meus projetos:
 <br></br>
 
 
