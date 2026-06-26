@@ -10,7 +10,7 @@ Bellow there are some places that you can send a message for doubts, suggestions
 
 <h3>Projects</h3>
 
-<h4><a href="https://github.com/victorbaydir/projeto-tarefas">📱📋 Lista de Projetos/Tarefas</a></h4>
+<h4><a href="https://github.com/victorbaydir/gerenciador_de_tarefas">📱📋 Gerenciador de Tarefas usando Angular + API Laravel</a></h4>
 <h4><a href="https://github.com/victorbaydir/jogoDaVelha"># Jogo da Velha</a></h4>
 <h4><a href="https://github.com/victorbaydir/calculadora">📱 Calculadora</a></h4>
 
