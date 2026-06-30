@@ -1,36 +1,90 @@
-<h1 style="display: inline-block">Hi/Olá </h1>  
+# Hi, I'm Victor 👋
 
-My name is Victor and I'm a Backend Software Developer. I started my career in April 2021 working with Java, Spring and Databases. But now, i'm workin with PHP, Laravel, Object-Oriented-Programming and Databases.
+## Backend Software Developer | PHP • Laravel • Angular
 
-Bellow there are some places that you can send a message for doubts, suggestions or maybe a job offert. 
+I'm a Software Developer with professional experience since **2021**, building web applications focused on clean architecture, maintainable code and REST APIs.
 
-[![Linkedin: Victor Baydir](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/victor-baydir-1a842a22a/)
-[![Gmail Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:victorbaydir@hotmail.com)](mailto:victorbaydir@hotmail.com)
-[![GitHub victorbaydir]( https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorbaydir/READme)
+I started my career working with **Java, Spring Boot and relational databases**. Today my main stack is **PHP, Laravel and Angular**, developing complete applications from backend APIs to modern frontend interfaces.
 
-<h3>Projects</h3>
+I enjoy solving business problems through software, writing clean and scalable code, and continuously improving my technical skills.
 
-<h4><a href="https://github.com/victorbaydir/gerenciador_de_tarefas">📋 Gerenciador de Tarefas usando Angular + API Laravel</a></h4>
-<h4><a href="https://github.com/victorbaydir/jogoDaVelha"># Jogo da Velha</a></h4>
-<h4><a href="https://github.com/victorbaydir/calculadora">📱 Calculadora</a></h4>
+---
 
-<h3>Skills</h3>
+## What I work with
+
+* PHP 8
+* Laravel
+* Angular
+* REST APIs
+* PostgreSQL
+* Object-Oriented Programming (OOP)
+* Git & GitHub
+* Postman
+* Database Modeling
+* Software Architecture
+* CRUD Applications
+* Authentication & Authorization
+* MVC Pattern
+
+---
+
+## Featured Projects
+
+### 📋 Task Management System
+
+**Angular + Laravel API + PostgreSQL**
+
+A CRUD task management application developed with Angular consuming a Laravel REST API.
+
+**Main features**
+
+* Complete CRUD
+* REST API
+* PostgreSQL database
+* Responsive interface
+* Clean architecture
+
+🔗 Repository:
+https://github.com/victorbaydir/gerenciador_de_tarefas
+
+---
+
+### 🎮 Tic-Tac-Toe
+
+A classic Tic-Tac-Toe game developed to practice JavaScript logic and interface development.
+
+🔗 Repository:
+https://github.com/victorbaydir/jogoDaVelha
+
+---
+
+### 🧮 Calculator
+
+Calculator project focused on JavaScript fundamentals and responsive interface development.
+
+🔗 Repository:
+https://github.com/victorbaydir/calculadora
+
+---
+
+## Technologies
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,angular,postgresql,vscode,postman,git,jquery,aws&perline=14" />
-  </a>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=php,laravel,angular,postgresql,git,aws,postman,vscode,jquery&perline=9"/>
+</a>
 </p>
 
-<br>
-<p align="left">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="50%" align="left">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=victorbaydir&theme=dark&show_icons=true&count_private=true" />
-</td>
+---
 
+## GitHub Stats
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=victorbaydir&theme=github-dark)
 
+---
+
+## Contact
+
+Feel free to contact me regarding opportunities, collaborations or technical discussions.
+
+[![Linkedin: Victor Baydir](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/victor-baydir-1a842a22a/) [![Gmail Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:victorbaydir@hotmail.com)](mailto:victorbaydir@hotmail.com) [![GitHub victorbaydir]( https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorbaydir/READme)
